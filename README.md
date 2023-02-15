@@ -1,2 +1,4 @@
-# gitpod-dotfiles
-My dotfiles for Gitpod workspaces
+# Gitpod Dotfiles
+
+My dotfiles for Gitpod workspaces. Currently just enables commit signing across all my repositories.
+
